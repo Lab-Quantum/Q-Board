@@ -2,7 +2,7 @@
 
 # Q-Board
 
-> To view the project visit <a href="https://quantumdemi.netlify.com" target="_blank"> W.I.P</a>
+> To view the project visit <a href="" target="_blank"> W.I.P</a>
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
