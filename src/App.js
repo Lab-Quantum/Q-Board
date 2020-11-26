@@ -3,13 +3,13 @@ import React from 'react';
 import './app.css';
 
 import Menu from './components/Menu';
-import Grid from './components/Grid';
+import GridPage from './components/GridPage';
 
 function App() {
   return (
     <div className="App">
       <Menu />
-      <Grid />
+      <GridPage />
     </div>
   );
 }
